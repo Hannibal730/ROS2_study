@@ -20,7 +20,7 @@ class TurtlesimPublisher2(Node):
 if __name__ == '__main__':
     main()    
         
-        
+     
 def main(args=None):
     rp.init(args=args)
     
